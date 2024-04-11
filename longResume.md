@@ -1,4 +1,4 @@
-Sure, I can help with that. Here's your revised resume with some formatting fixes:
+
 
 # Oskar Golden's Extended Work and School Resume
 
