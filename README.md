@@ -3,7 +3,7 @@
 
 ### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
 
-## EDUCATION                                                                 oskar.golden@g.austincc.edu
+## EDUCATION                                                                 
 
 ### Saint Edwards University - Bachelors Degree in Reilgious Studies, 2023
 
@@ -22,6 +22,13 @@ Declared new majors in spring of 2024. Full course load.
 
 Austin Community College, Austin TX
 An intensive program that focused on Web Development and design. I learned to develop, test and deploy front-end, back-end, database and services in the cloud using the Javascript coding language, including React.
+
+
+
+## Contact
+
+- oskar.golden@g.austincc.edu
+  
 
 
 
