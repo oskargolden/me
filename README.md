@@ -10,6 +10,7 @@
 ### Full Time Student: 2022 - Present
 
 Austin Community College, Austin, TX
+
 Declared new majors in spring of 2024. Full course load.
 
 - Associate of Science: Mathematics - Expected 2026
