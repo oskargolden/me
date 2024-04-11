@@ -26,8 +26,7 @@ An intensive program that focused on Web Development and design. I learned to de
 
 
 ## Contact
-
-- oskar.golden@g.austincc.edu
+oskar.golden@g.austincc.edu
   
 
 
