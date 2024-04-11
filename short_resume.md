@@ -1,4 +1,4 @@
-# OSKAR GOLDEN 631-747-4703 <oskarcarlgolden@gmail.com>
+# OSKAR GOLDEN 
 
 ## EDUCATION
 
