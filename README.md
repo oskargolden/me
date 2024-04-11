@@ -30,6 +30,6 @@ An intensive program that focused on Web Development and design. I learned to de
 -  [Github]<https://www.github.com/oskargolden>
 
 
-### [Full Work History] - <https://github.com/oskargolden/me/blob/main/long_resume.md>
+### [Full Work History]<https://github.com/oskargolden/me/blob/main/long_resume.md>
 
 
