@@ -1,5 +1,7 @@
 
-# OSKAR GOLDEN 
+# OSKAR GOLDEN  -  [Linkedin](https://www.linkedin.com/in/oskar-golden>) -  [Github](https://www.github.com/oskargolden)
+
+### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
 
 ## EDUCATION
 
@@ -22,14 +24,11 @@ Austin Community College, Austin TX
 An intensive program that focused on Web Development and design. I learned to develop, test and deploy front-end, back-end, database and services in the cloud using the Javascript coding language, including React.
 
 
-#
-
-## Links
-
--  [Linkedin](https://www.linkedin.com/in/oskar-golden>)
--  [Github](https://www.github.com/oskargolden)
 
 
-### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
+
+
+
+
 
 
