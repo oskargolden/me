@@ -3,7 +3,7 @@
 
 ### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
 
-## EDUCATION
+## EDUCATION                                                                 oskar.golden@g.austincc.edu
 
 ### Saint Edwards University - Bachelors Degree in Reilgious Studies, 2023
 
