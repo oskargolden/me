@@ -1,5 +1,5 @@
 
-# OSKAR GOLDEN  -  [Linkedin](https://www.linkedin.com/in/oskar-golden>) -  [Github](https://www.github.com/oskargolden)
+# Oskar Golden  -  [Linkedin](https://www.linkedin.com/in/oskar-golden>) -  [Github](https://www.github.com/oskargolden)
 
 ### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
 
