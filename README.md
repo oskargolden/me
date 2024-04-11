@@ -3,9 +3,9 @@
 
 ## EDUCATION
 
-### St. Edward’s University Austin Community College Bachelor of Art in Religious Studies
+### Saint Edwards University - Bachelors Degree in Reilgious Studies, 2023
 
-### 2023 Software Developer Bootcamp, 2022 Austin, TX Associate Degree in Philosophy, 2021 Austin, TX
+### Austin Community College - Associate Degree in Philosophy, 2021
 
 ### Full Time Student: 2022 - Present
 
@@ -19,4 +19,11 @@ Declared new majors in spring of 2024. Full course load.
 
 Austin Community College, Austin TX
 An intensive program that focused on Web Development and design. I learned to develop, test and deploy front-end, back-end, database and services in the cloud using the Javascript coding language, including React.
-28 weeks 10 - 25 hours a week
+
+
+#
+
+## Links
+
+- <www.linkedin.com/in/oskar-golden>
+- <https://www.github.com/oskargolden>
