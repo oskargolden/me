@@ -5,6 +5,7 @@
 ### Full Time Student: 2022 - Present
 Austin Community College, Austin, TX  
 Declared new majors in spring of 2024. Full course load.  
+
 - Associate of Science: Mathematics - Expected 2026  
 - Associate of Science: Computer Information Technology: Computer Programming - Expected fall 2025  
 32-42 weeks a year. 45-55 hours a week.
