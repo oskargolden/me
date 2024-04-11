@@ -26,10 +26,10 @@ An intensive program that focused on Web Development and design. I learned to de
 
 ## Links
 
--  [Linkedin]<https://www.linkedin.com/in/oskar-golden> 
--  [Github]<https://www.github.com/oskargolden>
+-  [Linkedin](https://www.linkedin.com/in/oskar-golden>)
+-  [Github](https://www.github.com/oskargolden)
 
 
-### [Full Work History]<https://github.com/oskargolden/me/blob/main/long_resume.md>
+### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
 
 
