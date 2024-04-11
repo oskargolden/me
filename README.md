@@ -25,5 +25,5 @@ An intensive program that focused on Web Development and design. I learned to de
 
 ## Links
 
-- <www.linkedin.com/in/oskar-golden>
+- <https://www.linkedin.com/in/oskar-golden>
 - <https://www.github.com/oskargolden>
