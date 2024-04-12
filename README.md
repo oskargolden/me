@@ -9,7 +9,7 @@
 
 ### Austin Community College - Associate Degree in Philosophy, 2021
 
-### Full Time Student: 2022 - Present
+### Full Time Student: 2019 - Present
 
 Austin Community College, Austin, TX
 
