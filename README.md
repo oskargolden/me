@@ -5,9 +5,6 @@
 
 ## EDUCATION                                                                 
 
-### Saint Edwards University - Bachelors Degree in Reilgious Studies, 2023
-
-### Austin Community College - Associate Degree in Philosophy, 2021
 
 ### Full Time Student: 2019 - Present
 
@@ -23,6 +20,9 @@ Declared new majors in spring of 2024. Full course load.
 Austin Community College, Austin TX
 An intensive program that focused on Web Development and design. I learned to develop, test and deploy front-end, back-end, database and services in the cloud using the Javascript coding language, including React.
 
+### Saint Edwards University - Bachelors Degree in Reilgious Studies, 2023
+
+### Austin Community College - Associate Degree in Philosophy, 2021
 
 
 ## Contact
