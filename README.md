@@ -1,7 +1,7 @@
 
 # Oskar Golden  -  [Linkedin](https://www.linkedin.com/in/oskar-golden>) -  [Github](https://www.github.com/oskargolden)
 
-### [Full Work History](https://github.com/oskargolden/me/blob/main/long_resume.md)
+
 
 ## EDUCATION                                                                 
 
@@ -21,7 +21,7 @@ An intensive program that focused on Web Development and design. I learned to de
 Declared new majors in spring of 2024. Full course load.
 
 - Associate of Science: Mathematics - Expected 2026
-- Associate of Science: Computer Information Technology: Computer Programming - Expected fall 2025 
+- Associate of Science: Computer Information Technology: Computer Programming - Expected  2026 
 
 
 
